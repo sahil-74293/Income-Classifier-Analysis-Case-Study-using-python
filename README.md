@@ -27,10 +27,9 @@ These insights provide a strong foundation for building the income classifier sy
 
 ## Repository Contents
 
-- `data/`: Contains the dataset used for analysis.
-- `notebooks/`: Jupyter notebooks with the code used for data analysis and model development.
-- `models/`: Contains the trained income classifier models.
-- `images/`: Includes visualizations and plots created during exploratory data analysis.
-- `requirements.txt`: Lists the required Python packages and their versions.
+-  Contains the dataset used for analysis i.e income.csv
+-  Jupyter notebooks with the code used for data analysis and model development.
+-  Includes visualizations and plots created during exploratory data analysis.
+
 
 Happy coding!
