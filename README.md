@@ -22,6 +22,8 @@ During the analysis, several key insights were derived from the dataset:
 8. Observed that individuals with doctorate, master's, or proof-school education are more likely to earn above $50,000 per year compared to others.
 9. Identified that those who earn more than $50,000 per year are likely to work in managerial and professional roles.
 10. Noticed that individuals earning more than $50,000 per year tend to work around 40-50 hours per week based on the hours per week vs. salary status plot.
+11. Built a logistic regression model to predict the probablity of categorical dependent variable,calculate the accuracy and print the misclassified values from predictions
+12. Building the KNN classifier model to classify the records into any one of the categories of the salary status.
 
 These insights provide a strong foundation for building the income classifier system, helping Subsidy Inc. make more informed decisions about subsidy allocation.
 
